@@ -22,16 +22,17 @@ Admittedly the power itself is pretty low for an engine of its displacement. Als
 2. Needlessly big
 3. Inefficient
 
- <br> Also, the prveious part of my markdown file looked like this:
-
-```[Go past image](#Car)
-
-![Car](car.jpg)
-
-# Car
-[Car file](car.jpg)
+ <br> Also, this is a snippet of code from my cse167 hw starter code:
 
 ```
-I just thought it looked really repetitive and that you should notice that.
+static const int width = 500;
+static const int height = 500;
+static const char* title = "Hello square";
+static GLuint program; // to be set as the shader program
+static GLuint square_vao;
+static GLuint buffers[3];
+
+```
+
 
 - [x] you have finished reading this.
